@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution webpage](https://www.frontendmentor.io/solutions/responsive-api-address-tracker-V6iM4BI__)
+- Live Site URL: [github live website](https://rhesusp.github.io/portfolio/IP_address_tracker/index.html)
 
 ## My process
 
@@ -51,10 +51,10 @@ Users should be able to:
 - [Ipify](https://geo.ipify.org/) - IP Geolocation API
 
 
-### Continued development
+### Continued development 	
 
-Potential future improvements : 
-- smooth scrooling map instead of refresh.
+:hourglass_flowing_sand: Potential future improvements : 
+* smooth scrooling map instead of refresh.
 
 
 ## Author
