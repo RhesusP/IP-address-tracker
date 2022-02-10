@@ -26,10 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
+##My desktop version
 ![](./design/my-desktop-version.png)
 
 <center>
 
+##My mobile version
 ![](./design/my-mobile-version.png)
 </center>
 
